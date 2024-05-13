@@ -1,1 +1,2 @@
 Andeslo 188.166.250.251 Lifetime
+Telegram 157.230.245.254 Lifetime
